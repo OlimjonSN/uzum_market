@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'features/uzum/presentation/pages/home_Page.dart';
+import 'features/uzum/presentation/pages/home_page.dart';
 
 void main() {
   runApp(const MyApp());
